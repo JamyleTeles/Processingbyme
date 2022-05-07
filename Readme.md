@@ -1,1 +1,3 @@
 Este repositório, além de ser o meu primeiro, será onde irei guardar todas as minhas criações feitas no Processing.
+* referente ao Codigo1: 
+- são duas imagem iguais, que podem ser utilizadas em qualquer tamanho de janela (size) e quando passa o mouse no quadrado do meio de qualquer uma das imagens, a figura que você está ficará colorida com uma harmonia cromática triádica, feita com HSB, e a outra ficará em preto e branco. 
